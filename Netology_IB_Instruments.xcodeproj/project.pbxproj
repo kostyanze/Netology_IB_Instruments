@@ -48,10 +48,6 @@
 		B539D2DB29958AB500C3B905 = {
 			isa = PBXGroup;
 			children = (
-				B539D2FB29958AF000C3B905 /* ProfileView.xib */,
-				B539D30329958CDA00C3B905 /* ProfileView.swift */,
-				B539D305299591DB00C3B905 /* Profile.storyboard */,
-				B539D3072995921A00C3B905 /* ProfileViewController.swift */,
 				B539D2E629958AB500C3B905 /* Netology_IB_Instruments */,
 				B539D2E529958AB500C3B905 /* Products */,
 			);
@@ -68,6 +64,10 @@
 		B539D2E629958AB500C3B905 /* Netology_IB_Instruments */ = {
 			isa = PBXGroup;
 			children = (
+				B539D2FB29958AF000C3B905 /* ProfileView.xib */,
+				B539D30329958CDA00C3B905 /* ProfileView.swift */,
+				B539D305299591DB00C3B905 /* Profile.storyboard */,
+				B539D3072995921A00C3B905 /* ProfileViewController.swift */,
 				B539D2E729958AB500C3B905 /* AppDelegate.swift */,
 				B539D2E929958AB500C3B905 /* SceneDelegate.swift */,
 				B539D2EB29958AB500C3B905 /* ViewController.swift */,
